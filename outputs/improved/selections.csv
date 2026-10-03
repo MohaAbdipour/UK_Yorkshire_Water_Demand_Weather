@@ -1,0 +1,29 @@
+DMA,location,target,fold,inner_start,inner_end,test_start,test_end,candidate,inner_MAE
+1,external,mean,1,2014-08-16,2014-11-13,2014-11-14,2015-02-11,"{'kind': 'log_ridge', 'weather': False, 'alpha': 10}",0.008557193534286089
+1,external,median,1,2014-08-16,2014-11-13,2014-11-14,2015-02-11,"{'kind': 'log_ridge', 'weather': True, 'alpha': 100}",0.007646244095717093
+1,internal,mean,1,2014-08-21,2014-11-18,2014-11-19,2015-02-16,{'kind': 'weekly'},0.009148462484624847
+1,internal,median,1,2014-08-21,2014-11-18,2014-11-19,2015-02-16,"{'kind': 'log_ridge', 'weather': True, 'alpha': 100}",0.00959904047963167
+2,external,mean,1,2013-07-31,2013-10-28,2013-10-29,2014-01-26,"{'kind': 'ridge', 'weather': True, 'alpha': 100}",0.006429165207343195
+2,external,mean,2,2013-10-29,2014-01-26,2014-01-27,2014-04-26,"{'kind': 'ridge', 'weather': False, 'alpha': 10}",0.005710999786774511
+2,external,mean,3,2014-01-27,2014-04-26,2014-04-27,2014-07-25,"{'kind': 'ridge', 'weather': False, 'alpha': 100}",0.007957410469840205
+2,external,mean,4,2014-04-27,2014-07-25,2014-07-26,2014-10-23,"{'kind': 'ridge', 'weather': True, 'alpha': 100}",0.013828638133174692
+2,external,mean,5,2014-07-26,2014-10-23,2014-10-24,2015-01-21,"{'kind': 'ridge', 'weather': True, 'alpha': 10}",0.06967382782055387
+2,external,mean,6,2014-10-24,2015-01-21,2015-01-22,2015-04-21,"{'kind': 'ridge', 'weather': True, 'alpha': 100}",0.13556830259506894
+2,external,median,1,2013-07-31,2013-10-28,2013-10-29,2014-01-26,"{'kind': 'log_ridge', 'weather': True, 'alpha': 100}",0.006502718325904743
+2,external,median,2,2013-10-29,2014-01-26,2014-01-27,2014-04-26,"{'kind': 'ridge', 'weather': False, 'alpha': 10}",0.005092923161627904
+2,external,median,3,2014-01-27,2014-04-26,2014-04-27,2014-07-25,"{'kind': 'ridge', 'weather': False, 'alpha': 100}",0.007789425149125267
+2,external,median,4,2014-04-27,2014-07-25,2014-07-26,2014-10-23,"{'kind': 'ridge', 'weather': True, 'alpha': 100}",0.01138657752866501
+2,external,median,5,2014-07-26,2014-10-23,2014-10-24,2015-01-21,"{'kind': 'log_ridge', 'weather': False, 'alpha': 100}",0.007453332744891414
+2,external,median,6,2014-10-24,2015-01-21,2015-01-22,2015-04-21,"{'kind': 'ridge', 'weather': True, 'alpha': 100}",0.006073687857481224
+2,internal,mean,1,2013-08-01,2013-10-29,2013-10-30,2014-01-27,"{'kind': 'ridge', 'weather': False, 'alpha': 1}",0.07588471197546283
+2,internal,mean,2,2013-10-30,2014-01-27,2014-01-28,2014-04-27,{'kind': 'weekly'},0.06299491129785248
+2,internal,mean,3,2014-01-28,2014-04-27,2014-04-28,2014-07-26,{'kind': 'weekly'},0.0706864494320935
+2,internal,mean,4,2014-04-28,2014-07-26,2014-07-27,2014-10-24,{'kind': 'weekly'},0.048850820440693866
+2,internal,mean,5,2014-07-27,2014-10-24,2014-10-25,2015-01-22,{'kind': 'weekly'},0.06389895567633713
+2,internal,mean,6,2014-10-25,2015-01-22,2015-01-23,2015-04-22,{'kind': 'weekly'},0.05382782168029433
+2,internal,median,1,2013-08-01,2013-10-29,2013-10-30,2014-01-27,"{'kind': 'log_ridge', 'weather': False, 'alpha': 1}",0.00815144762029782
+2,internal,median,2,2013-10-30,2014-01-27,2014-01-28,2014-04-27,"{'kind': 'log_ridge', 'weather': False, 'alpha': 100}",0.005756137890954935
+2,internal,median,3,2014-01-28,2014-04-27,2014-04-28,2014-07-26,"{'kind': 'ridge', 'weather': False, 'alpha': 100}",0.009331722509046004
+2,internal,median,4,2014-04-28,2014-07-26,2014-07-27,2014-10-24,"{'kind': 'ridge', 'weather': False, 'alpha': 100}",0.008153108944140267
+2,internal,median,5,2014-07-27,2014-10-24,2014-10-25,2015-01-22,"{'kind': 'log_ridge', 'weather': False, 'alpha': 1}",0.009426165785210713
+2,internal,median,6,2014-10-25,2015-01-22,2015-01-23,2015-04-22,"{'kind': 'log_ridge', 'weather': False, 'alpha': 100}",0.008026016816695448

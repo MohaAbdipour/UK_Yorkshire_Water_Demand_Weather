@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.pytest-*/
+*.zip
+data/raw/**/*.nc
+outputs/**/*.csv
+outputs/**/*.json
+data/raw/demand/*.csv
+data/raw/weather/*.csv
+data/processed/*.csv
+outputs/*.csv
+outputs/*.png

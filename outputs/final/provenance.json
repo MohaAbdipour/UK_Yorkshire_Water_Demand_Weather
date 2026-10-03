@@ -1,0 +1,9 @@
+{
+  "demand_sha256": "661c2a4f3c6c0d3df5fabdd91c2de921bdd7984902c5cae95977e44efe3a085c",
+  "weather_sha256": "fa8dda5861423bd21cc8bdd2623a95beb38d6bf6ef2e626dbde478b708d09aad",
+  "minimum_training_rows": 365,
+  "block_days": 90,
+  "max_blocks": 6,
+  "ridge_alpha": 10,
+  "coverage_threshold": "90% of training median record count; evaluation sensitivity only"
+}
